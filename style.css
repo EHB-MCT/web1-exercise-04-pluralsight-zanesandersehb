@@ -1,0 +1,31 @@
+body {
+  background: rgb(101, 23, 88);
+  background: linear-gradient(
+    90deg,
+    rgba(101, 23, 88, 1) 0%,
+    rgba(49, 21, 98, 1) 35%,
+    rgba(27, 24, 52, 1) 100%
+  );
+}
+h1 {
+  font-size: 18px;
+  color: #ff1675;
+}
+
+h2 {
+  font-size: 48px;
+}
+
+body {
+  font-family: sans-serif;
+  color: white;
+  margin: 30px;
+}
+
+
+a{background-color: #ff1675;
+color: white;
+padding: 10px 20px;
+border-radius: 30px;
+text-decoration: none;}
+
